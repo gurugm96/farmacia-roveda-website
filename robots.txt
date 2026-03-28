@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gurugm96.github.io/farmacia-roveda-website/sitemap.xml
