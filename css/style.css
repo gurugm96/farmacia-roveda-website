@@ -355,6 +355,10 @@ ul {
     background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
 }
 
+.nav__social-link--wa:hover {
+    background: #25d366;
+}
+
 .nav__social-link svg {
     width: 18px;
     height: 18px;
@@ -838,6 +842,10 @@ ul {
 
 .footer__social-link--ig:hover {
     background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+}
+
+.footer__social-link--wa:hover {
+    background: #25d366;
 }
 
 .footer__social-link svg {
